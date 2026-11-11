@@ -1,0 +1,9 @@
+{
+  "id": "span-master-toolkit",
+  "name": "Span Master Toolkit",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "درج، حذف و تبدیل اسپن با تمام جزئیات RTL، نیم‌فاصله، شرط‌های =/! و and/or، بکاپ .bak",
+  "author": "Mohammad Amir Nazarpour",
+  "isDesktopOnly": false
+}
